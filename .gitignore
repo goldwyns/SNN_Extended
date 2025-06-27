@@ -1,0 +1,24 @@
+# Byte-compiled / temporary / logs
+__pycache__/
+*.py[cod]
+*.log
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Data and results (not tracked)
+data/
+results/
+
+# Model weights
+*.pt
+*.pth
+
+# OS-specific
+Thumbs.db
+.DS_Store
